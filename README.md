@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Wang Min
 
 <p align="left">
-  <b>Senior Full-Stack / Mobile App Developer</b> with <b>8+ years of experience</b><br/>
-  Building production-ready applications for <b>web</b> and <b>mobile</b>
+  <b>Senior Full-Stack / Mobile App Developer</b> with <b>8+ years of experience</b>
+   building production-ready applications for <b>web</b> and <b>mobile</b> platforms.
 </p>
 
 ---
@@ -10,8 +10,6 @@
 ### 💡 About Me
 
 I enjoy turning complex ideas into **clean, scalable, and maintainable products**.  
-I focus on real-world engineering problems, long-term code quality, and product-driven development.
-
 Currently, I’m focused on **building real products** and **collaborating with partners** to explore new projects and opportunities.
 
 ---
