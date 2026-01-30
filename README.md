@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Wang Min
 
 <p align="left">
-  <b>Senior Full-Stack / Mobile App Developer</b> with <b>8+ years of experience</b>
+  <b>Senior Full-Stack / Mobile App Developer</b> with 8+ years of experience
    building production-ready applications for web and mobile platforms. I enjoy turning complex ideas into clean, scalable, and maintainable products. Currently, I’m focused on building real products and collaborating with partners to explore new projects and opportunities.
 </p>   
 
@@ -41,8 +41,3 @@ I’m open to:
 
 If you have an idea and need a **reliable technical partner**, I’m always happy to talk.
 
----
-
-<p align="center">
-  ⭐️ Thanks for visiting my GitHub profile
-</p>
