@@ -1,16 +1,71 @@
-## Hi there 👋
+# 👋 Hi, I’m Wang Min
 
-<!--
-**superdev0927/superdev0927** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <b>Senior Full-Stack / Mobile App Developer</b> with <b>8+ years of experience</b><br/>
+  Building production-ready applications for <b>web</b> and <b>mobile</b>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 About Me
+
+I enjoy turning complex ideas into **clean, scalable, and maintainable products**.  
+I focus on real-world engineering problems, long-term code quality, and product-driven development.
+
+Currently, I’m focused on **building real products** and **collaborating with partners** to explore new projects and opportunities.
+
+---
+
+## 🚀 What I Do
+
+### 📱 Mobile Development
+- iOS (Swift)
+- Android (Kotlin)
+- Flutter
+- React Native
+
+### 🌐 Frontend
+- React
+- Next.js
+- Vue.js
+
+### 🧠 Backend & APIs
+- Node.js
+- Express
+- Django
+- PostgreSQL
+- MongoDB
+- REST APIs
+- WebSockets
+
+### ☁️ Cloud & DevOps
+- Firebase
+- Supabase
+- Vercel
+- AWS
+
+---
+
+## 🧩 Engineering Values
+
+- ✅ Clean architecture  
+- ⚡ Performance & scalability  
+- 💬 Clear communication  
+- 🛠 Long-term maintainability  
+
+---
+
+## 🤝 Collaboration
+
+I’m open to:
+- Partnering with **founders or agencies**
+- Building **MVPs and startups**
+- **Long-term technical collaboration**
+
+If you have an idea and need a **reliable technical partner**, I’m always happy to talk.
+
+---
+
+<p align="center">
+  ⭐️ Thanks for visiting my GitHub profile
+</p>
