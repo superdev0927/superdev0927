@@ -17,30 +17,16 @@ Currently, I’m focused on **building real products** and **collaborating with 
 ## 🚀 What I Do
 
 ### 📱 Mobile Development
-- iOS (Swift)
-- Android (Kotlin)
-- Flutter
-- React Native
+- iOS (Swift), Android (Kotlin), Flutter, React Native
 
 ### 🌐 Frontend
-- React
-- Next.js
-- Vue.js
+- React.js, Next.js, Vue.js
 
-### 🧠 Backend & APIs
-- Node.js
-- Express
-- Django
-- PostgreSQL
-- MongoDB
-- REST APIs
-- WebSockets
+### 🧠 Backend
+- Node.js, Express.js, Django, PostgreSQL, MongoDB
 
 ### ☁️ Cloud & DevOps
-- Firebase
-- Supabase
-- Vercel
-- AWS
+- Firebase, Supabase, Vercel, AWS
 
 ---
 
